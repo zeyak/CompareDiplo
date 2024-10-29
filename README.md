@@ -1,7 +1,5 @@
 # CompareDiplo: Comparative Genomic Analysis Pipeline for Diplomonads
 
-![CompareDiplo Logo](compare diplo.002.jpeg "CompareDiplo Logo")
-
 **CompareDiplo** is a bioinformatics pipeline designed for comparative genomics analysis, particularly focusing on diplomonads. This tool facilitates genome and proteome annotation, protein family clustering, and functional characterization to explore evolutionary trajectories and lifestyle adaptations in free-living and parasitic diplomonads.
 
 ## Pipeline Workflow
